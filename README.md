@@ -16,7 +16,7 @@
 
 
 ### Task:
-    Node.js-i yükləyin və angular cli-ı install edərək environment qurun,
+    Node.js və angular cli-ı install edərək environment qurun,
     angular project yaradın, test edin.
     
     
